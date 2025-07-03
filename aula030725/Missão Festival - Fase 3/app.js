@@ -10,7 +10,7 @@ const bandas = [
 
   { nome: 'Mc Pipokinha', genero: 'pop', popularidade: 9 },
 
-  { nome: 'Miles Davis', genero: 'jazz', popularidade: 7 },
+  { nome: 'Tim Maia', genero: 'jazz', popularidade: 7 },
 
   { nome: 'Queen', genero: 'rock', popularidade: 10 },
 
